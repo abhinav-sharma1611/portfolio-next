@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abhinav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abhinav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abhinav is the ideal partner.",
+    name: "Punnet Jain",
+    title: "Director of Neetable Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    "Collaborating with Abhinav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abhinav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abhinav is the ideal partner.",
+    name: "Benjamin Fuller",
+    title: "CTO of Nimbler AI",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abhinav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abhinav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abhinav is the ideal partner.",
+    name: "Edmund NG",
+    title: "CEO of Doxa Holdings Internationl Limited",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abhinav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abhinav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abhinav is the ideal partner.",
+    name: "Mahesh",
+    title: "Director of VNC Digital Services",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Abhinav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abhinav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abhinav is the ideal partner.",
+    name: "Koko Zarov",
+    title: "CEO of Nimbler AI",
   },
 ];
 
